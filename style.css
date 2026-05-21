@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: chartreuse;
+}
+
+footer{
+    height: 100px;
+    background-color: chartreuse;
+}
+
+.logo img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 80px;
+    width: 80 px;
+}
+
+.Inicio{
+    background-color: yellow;
+    height: 200px;
+}
+
+.Selecciones{
+    background-color: yellow;
+    height: 200px;
+}
+
+.Horarios{
+    background-color: blue;
+    height: 200px;
+}
+
+.Información{
+    background-color: red;
+    height: 200px;
+}
